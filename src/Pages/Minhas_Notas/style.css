@@ -1,0 +1,42 @@
+.container-tabela{
+    border-radius: 5px;
+    border: 2px solid #1D3485;
+    background: #FFF;
+    width: 600px;
+    flex-shrink: 0;
+    padding: 0px;
+}
+
+.att{
+    color: #1D3485;
+    font-weight: bold;
+}
+
+.titulo-minhasN{
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    margin-bottom: 100px;
+}
+
+th{
+    border: none;
+    padding: 15px;
+}
+
+
+td{
+    margin: 0;
+    padding: 0;
+    border: 2px solid #1D3485;
+    background: #FFF;
+    text-align: center;
+    height: 50px;
+}
+
+.cabecalho{
+    border: none;
+    background: #1D3485;
+    color: #FFF;
+}

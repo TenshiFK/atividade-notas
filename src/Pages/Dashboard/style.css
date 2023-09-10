@@ -1,0 +1,35 @@
+.form-dashboard{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+
+.btn-incluir{
+    border: none;
+    border-radius: 8.203px;
+    background: #1D3485;
+    width: 100%;
+    padding: 15px;
+    color: #FFF;
+    font-size: 15px;
+    margin-bottom: 25px;
+    cursor: pointer;
+}
+
+.btn-incluir:hover{
+    background-color: #1a2e75;
+}
+
+.titulo-addNota{
+    margin-bottom: 100px;
+}
+
+label{
+    color: #797980;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
