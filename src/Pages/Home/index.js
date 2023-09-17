@@ -9,7 +9,6 @@ export default function Home(){
         <div className="container">
             <Sidebar/>
             <div className="conteudo-principal">
-                <h1>Teste</h1>
             </div>
         </div>
     );
